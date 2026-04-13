@@ -339,8 +339,7 @@ pytest tests/ -v --cov=src
 | `DB_HOST` | `localhost` | PostgreSQL host |
 | `DB_PORT` | `5432` | PostgreSQL port |
 | `DB_NAME` | `sales_db` | Database name |
-| `DB_USER` | `etl_user` | Database user |
-| `DB_PASSWORD` | `etl_password` | Database password |
+
 
 ---
 
